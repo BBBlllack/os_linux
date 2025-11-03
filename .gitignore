@@ -1,0 +1,14 @@
+sharehdc/
+hdc/
+bochs-2.6.11/
+*.gz
+peda-*
+*.lock
+*.o
+Image
+*.img
+system
+*.a
+bootsect
+setup
+
